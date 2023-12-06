@@ -25,3 +25,7 @@ npm i -g @quasar/cli
 4 - [CRUD COM VUE 3 E QUASAR FRAMEWORK - SALVANDO E EDITANDO FORMULÁRIOS (parte 1)](https://www.youtube.com/watch?v=CPBbYr8b1jM)
 
 5 - [CRUD COM VUE 3 E QUASAR FRAMEWORK - SALVANDO E EDITANDO FORMULÁRIOS (parte 2)](https://www.youtube.com/watch?v=VUQsdqUkjS0)
+
+# Documentation
+
+* [https://quasar.dev](https://quasar.dev)
