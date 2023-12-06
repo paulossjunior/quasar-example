@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "be",
+      "author": "typicode",
+      "content": "xxx"
+    },
+    {
+      "id": 4,
+      "title": "bu",
+      "author": "typicode",
+      "content": "xxx"
+    }
+  ]
+}
